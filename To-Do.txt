@@ -1,0 +1,7 @@
+“Pro+” Upgrades
+
+Stockfish WASM (NNUE): place before Minimax → Book → TB → Stockfish → Minimax.
+
+Stronger Minimax: add Transposition Table, Iterative Deepening, Aspiration Windows, Quiescence (big Elo gain).
+
+Tablebase DTZ-aware, auto-update manifest for the opening book, and perft test suite for engine correctness.
