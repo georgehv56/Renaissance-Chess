@@ -1,0 +1,18 @@
+
+{
+    "version": "1.0.0",
+    "books": [
+        {
+            "name": "mainline",
+            "path": "/books/mainline.json",
+            "version": "1.0",
+            "description": "A balanced book with common main lines."
+        },
+        {
+            "name": "human",
+            "path": "/books/human.json",
+            "version": "1.0",
+            "description": "A book based on common human play in online databases."
+        }
+    ]
+}
